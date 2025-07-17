@@ -11,8 +11,8 @@ transform = transforms.Compose([
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-training_ds = datasets.ImageFolder(root="C:\\Users\\aakas\\Downloads\\archive (1)\\Training",transform=transform)
-testing_ds = datasets.ImageFolder(root="C:\\Users\\aakas\\Downloads\\archive (1)\\Testing",transform=transform)
+training_ds = datasets.ImageFolder(root="",transform=transform)
+testing_ds = datasets.ImageFolder(root="",transform=transform)
 batch_size = 32
 training = DataLoader(training_ds,batch_size=batch_size, shuffle=True)
 testing = DataLoader(testing_ds,batch_size=batch_size, shuffle=True)
