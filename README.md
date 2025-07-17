@@ -5,7 +5,7 @@ This repository contains code to create a Convolutional Neural Network (CNN) alo
 
 ## Project Overview
 
-This model is trained to take in Brain MRI Scans and classify them into 4 categories: Meningioma, Glioma, No, and Pituitary Tumors
+This model is trained to take in Brain MRI Scans and classify them into 4 categories: Meningioma, Glioma, No, and Pituitary Tumors.
 
 ---
 
