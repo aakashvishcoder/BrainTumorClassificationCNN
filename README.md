@@ -23,3 +23,5 @@ This model is trained to take in Brain MRI Scans and classify them into 4 catego
    ```bash
    git clone https://github.com/yourusername/BrainTumorClassificationCNN.git
    cd BrainTumorClassificationCNN
+
+2. Use this website for the dataset: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
