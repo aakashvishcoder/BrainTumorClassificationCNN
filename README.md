@@ -1,4 +1,4 @@
-# BrainTumorClassificationCNN using PyTorch CNN
+# BrainTumorClassification using PyTorch CNN
 This repository contains code to create a Convolutional Neural Network (CNN) along with the saved network itself (Model Architecture + Parameters).
 
 ---
@@ -16,3 +16,10 @@ This model is trained to take in Brain MRI Scans and classify them into 4 catego
 - Support for inference with PreTrained weights
 
 ---
+## Setup
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/BrainTumorClassificationCNN.git
+   cd BrainTumorClassificationCNN
